@@ -1,0 +1,11 @@
+{
+    "name": "hopcio/apinbp",
+    "description": "Api nbp",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Hopcio\\Apinbp\\": "src/"
+        }
+    },
+    "require": {}
+}
